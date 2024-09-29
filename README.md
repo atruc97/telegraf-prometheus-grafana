@@ -1,2 +1,1 @@
-# telegraf-prometheus-grafana
-telegraf-prometheus-grafana-basic
+# telegraf-prometheus-grafana-basic
